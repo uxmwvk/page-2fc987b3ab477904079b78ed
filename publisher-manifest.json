@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6cb52f73fb51451de049bfe3",
+  "owner": "uxmwvk",
+  "repo": "page-2fc987b3ab477904079b78ed",
+  "title": "叱咤風雲",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2fc987b3ab477904079b78ed",
+      "a": "叱咤風雲",
+      "b": "",
+      "entity": "叱咤風雲",
+      "brand": "叱咤風雲",
+      "separator": "",
+      "path": "index.html",
+      "hash": "a81788e098afd543d8a993b048a9e7497aba1b98ccbdda353a31e41a17bb2622",
+      "content": {
+        "keyword1": "叱咤風雲",
+        "keyword2": "",
+        "primary_entity": "叱咤風雲",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "叱咤風雲是面向跨境访问的官方机场与VPN加速服务，提供基础版、旗舰版与团队版订阅，覆盖流媒体解锁、游戏IPLC加速及多端客户端导入指引，本页为官网下载与使用说明。",
+          "AI_DESCRIPTION": "叱咤風雲是面向跨境访问的官方机场与VPN加速服务，提供基础版、旗舰版与团队版订阅，覆盖流媒体解锁、游戏IPLC加速及多端客户端导入指引，本页为官网下载与使用说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--bg:#06141f;--card:#0b2436;--text:#eef7fb;--muted:#8fb3c4;--cyan:#1ce0c8;--navy:#0a2a40;--line:#0d4a5c}*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:var(--bg);color:var(--text);line-height:1.65}a{color:var(--cyan);text-decoration:none}.wrap{max-width:720px;margin:0 auto;padding:12px 16px 40px}header{padding:16px 0 12px;border-bottom:1px solid var(--line)}.brand{font-size:1.2rem;font-weight:700;color:var(--cyan);letter-spacing:.05em}.sub{font-size:.82rem;color:var(--muted);margin-top:4px}nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:12px;font-size:.9rem}nav a{color:var(--muted)}h1{font-size:1.7rem;line-height:1.3;margin:22px 0 10px;color:#fff}h2{font-size:1.25rem;margin:28px 0 12px;color:var(--cyan);padding-bottom:6px;border-bottom:1px solid var(--line)}h3{font-size:1.05rem;margin:14px 0 8px;color:#fff}p,li{margin-bottom:10px}ul.feat{padding-left:1.15em;margin:8px 0 0}ul.feat li{margin-bottom:6px}.muted{color:var(--muted);font-size:.95rem}.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;margin:12px 0}.card.featured{border-color:var(--cyan)}.badge{display:inline-block;font-size:.72rem;background:var(--cyan);color:#042018;padding:2px 8px;border-radius:4px;font-weight:700;margin-bottom:8px}.price{font-size:1.32rem;color:var(--cyan);font-weight:700}.annual{display:block;font-size:.85rem;color:var(--muted);margin-top:4px}.step{position:relative;padding:12px 12px 12px 48px;background:var(--card);border-radius:8px;margin:10px 0;border-left:3px solid var(--cyan)}.num{position:absolute;left:12px;top:12px;width:26px;height:26px;background:var(--cyan);color:#042018;border-radius:50%;text-align:center;font-weight:700;line-height:26px;font-size:.85rem}.client{background:var(--navy);padding:12px;border-radius:8px;margin:8px 0}.client h3{margin:0 0 4px}.tag{font-size:.75rem;color:var(--cyan)}details{background:var(--card);border-radius:8px;margin:8px 0;padding:10px 14px;border:1px solid var(--line)}summary{font-weight:600;color:#fff}details p{margin-top:8px;color:var(--muted)}.ad{background:var(--navy);border:1px dashed var(--cyan);padding:14px;text-align:center;margin:18px 0;border-radius:8px;color:var(--cyan);font-size:.9rem}footer{margin-top:32px;padding-top:16px;border-top:1px solid var(--line);font-size:.85rem;color:var(--muted)}footer a{margin-right:10px}@media(min-width:640px){h1{font-size:2rem}.wrap{padding:18px 24px 56px}}</style><div class=\"wrap\"><header><div class=\"brand\">叱咤風雲</div><div class=\"sub\">官方网站 · 机场订阅与网络加速</div><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#guide\">教程</a><a href=\"#download\">下载</a><a href=\"#faq\">问答</a><a href=\"#sitemap\">地图</a></nav></header><main><h1>叱咤風雲</h1><p id=\"intro\">叱咤風雲是面向跨境办公、流媒体与游戏加速的官方机场服务，提供可导入主流客户端的订阅链接。我们以稳定线路、清晰套餐和可落地的操作说明为核心，帮助用户在多设备上完成 VPN 梯子与网络加速配置。本页即叱咤風雲官网介绍与客户端下载指引，不绑定来路不明的安装包。</p><h2>品牌简介</h2><p>叱咤風雲聚焦机场订阅而非一次性软件授权。用户按月或按年获取节点权限后，将订阅写入 Clash、Shadowrocket、Surge、v2rayN 等客户端即可按规则分流。旗舰线路包含 IPLC 游戏优化与原生流媒体解锁，团队场景可定制路由。服务强调可核对的官方身份：认准全称「叱咤風雲」，通过官方后台下发订阅，避免第三方代充与仿冒下载站。</p><p class=\"muted\">协议侧覆盖常见代理内核所需的订阅格式；节点侧覆盖亚太与欧美主要出口。实际延迟与解锁效果随目标站策略变化，建议在客户端中按延迟与规则模式选用，而不是长期锁定单一节点。</p><h2 id=\"scenes\">使用场景</h2><div class=\"card\"><h3>流媒体与内容访问</h3><p>观看海外影视、音乐与直播时，基础版可覆盖常见站点的基础解锁；旗舰版与团队版强调全节点原生解锁，减少因公共 NAT 导致的地区误判。</p></div><div class=\"card\"><h3>游戏与实时对战</h3><p>需要更低抖动的玩家可优先使用旗舰版 IPLC 专线游戏加速。适合国际服登录、主机在线与语音同时在线的场景，仍需在客户端选择游戏规则或指定节点。</p></div><div class=\"card\"><h3>办公、开发与学术</h3><p>远程仓库、文档协作、文献检索对稳定性要求高于极限带宽。建议开启规则模式，仅对跨境域名走代理，局域网与国内站点直连，避免整机全局带来的额外开销。</p></div><div class=\"card\"><h3>家庭与小团队共享</h3><p>同一订阅可在套餐设备上限内同时在线。团队版面向多成员与路由级部署，可配合企业定制路由把不同业务拆到不同出口。</p></div><h2 id=\"plans\">官方套餐</h2><p class=\"muted\">价格按自然月计费，年付为十二个月打包优惠。流量为套餐周期内可用的极速流量额度，到期按套餐重置。以下为当前官网公示方案。</p><div class=\"card\"><h3>基础版</h3><div class=\"price\">¥15/月</div><span class=\"annual\">按年付仅需 ¥150/年</span><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card featured\"><div class=\"badge\">推荐</div><h3>旗舰版</h3><div class=\"price\">¥35/月</div><span class=\"annual\">按年付仅需 ¥350/年</span><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3>团队版</h3><div class=\"price\">¥85/月</div><span class=\"annual\">按年付仅需 ¥850/年</span><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div><h2 id=\"clients\">客户端选择</h2><p>叱咤風雲不绑定单一 App。订阅可导入主流开源或商店客户端。请按系统选择，并从应用商店或项目官方发布页获取安装包，这是官网下载的正确方式。</p><div class=\"client\"><h3>Windows</h3><p class=\"muted\">Clash Verge Rev、v2rayN。适合导入 Clash 或通用订阅，开启系统代理后配合规则分流。</p><span class=\"tag\">桌面主力</span></div><div class=\"client\"><h3>macOS</h3><p class=\"muted\">ClashX.Meta、Surge。菜单栏切换节点方便，可与分流规则、增强模式配合使用。</p><span class=\"tag\">桌面</span></div><div class=\"client\"><h3>iOS / iPadOS</h3><p class=\"muted\">Shadowrocket、Stash、Quantumult X。需通过官方商店获取；导入订阅后开启 VPN 配置并允许本地网络权限。</p><span class=\"tag\">移动</span></div><div class=\"client\"><h3>Android</h3><p class=\"muted\">Clash Meta for Android、NekoBox。建议关闭省电限制，避免后台被系统杀死导致断流。</p><span class=\"tag\">移动</span></div><div class=\"client\"><h3>路由器与网关</h3><p class=\"muted\">OpenClash、PassWall 等。适合家庭共享，占用团队版设备额度，需自行维护固件与规则。</p><span class=\"tag\">进阶</span></div><h2 id=\"guide\">操作说明</h2><p class=\"muted\">按纵向步骤完成从选套餐到成功加速。任一步骤失败时，回到上一步核对订阅是否更新出节点。</p><div class=\"step\"><span class=\"num\">1</span><h3>确认需求并选择套餐</h3><p>轻度浏览选基础版；观影与游戏选旗舰版；多人与路由共享选团队版。年付可降低平均月成本。</p></div><div class=\"step\"><span class=\"num\">2</span><h3>在官方后台获取订阅</h3><p>完成订购后复制 Clash / 通用订阅链接。不要把链接发到公开群组。重置订阅会使旧链接失效。</p></div><div class=\"step\"><span class=\"num\">3</span><h3>下载并安装对应客户端</h3><p>根据上一节客户端选择安装。仅使用商店或项目发布页，拒绝所谓「一键破解客户端」。安装后赋予代理或 VPN 权限。</p></div><div class=\"step\"><span class=\"num\">4</span><h3>导入订阅并更新节点</h3><p>粘贴订阅或扫码，执行更新。应出现分组节点。将模式设为规则，国内直连、跨境走代理。</p></div><div class=\"step\"><span class=\"num\">5</span><h3>测速选用并验证解锁</h3><p>按延迟筛选节点，访问目标站点验证。游戏走 IPLC 组，流媒体走解锁组。异常时更换节点并核对系统时间。</p></div><h2 id=\"download\">官网下载与订阅获取</h2><p>叱咤風雲官网下载指的是：在本站了解套餐与导入方法，客户端本身从各系统官方渠道获取，订阅仅由叱咤風雲后台下发。任何要求你安装来源不明 APK/IPA、或索要验证码以外账号密码的页面，都不是官方流程。</p><div class=\"card\"><h3>下载核对清单</h3><ul class=\"feat\"><li>客户端名称与系统匹配，版本来自商店或 GitHub Release。</li><li>订阅链接域名与官方后台一致，协议为 https。</li><li>首次连接后，仅必要的系统 VPN/代理开关被打开。</li><li>工单与续费只在官方身份校验通过的后台进行。</li></ul></div><p class=\"muted\">节点方面，线路覆盖香港、台湾、日本、新加坡、美国等常用出口，旗舰与团队用户优先调度高带宽与 IPLC。我们不在此页虚构评分或用户评论，具体体验以你本地网络与目标站点实时结果为准。</p><h2 id=\"faq\">常见问题</h2><details><summary>如何从叱咤風雲官网获取可用订阅？</summary><p>在套餐说明中选定版本并完成官方订购后，后台会生成 Clash 与通用订阅。复制到客户端并更新，即可拉取节点。不要使用第三方「代充链接」，以免账号与流量被转移。</p></details><details><summary>客户端应该去哪里下载才安全？</summary><p>Windows 与 macOS 使用项目官方发布页；iOS 仅通过 App Store 获取 Shadowrocket 等；Android 使用 F-Droid 或 GitHub 发布的 Clash Meta。叱咤風雲官网不托管破解包，这是区分官方下载与仿冒站的关键。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>三台设备、轻度流量选基础版。需要原生流媒体、IPLC 游戏加速和优先工单选旗舰版。二十台设备、高流量或要定制路由选团队版。年付价格已在各套餐中标明。</p></details><details><summary>导入后没有节点或无法上网如何排查？</summary><p>先确认订阅更新成功且列表非空，再检查系统时间、VPN 权限与规则模式。尝试切换节点组。若全部超时，重置订阅后重新导入，仍失败再提交工单并附上客户端日志时间点。</p></details><details><summary>流媒体显示不在服务区或游戏延迟高怎么办？</summary><p>将节点切换到解锁组或 IPLC 游戏组，避免用普通中转看流媒体。旗舰版与团队版对原生解锁和游戏优化更完整。若目标站临时调整策略，更换同组其他节点通常即可恢复。</p></details><details><summary>设备超限或流量用尽如何处理？</summary><p>同时在线以套餐台数为准，超出后新终端无法注册，可下线闲置设备。流量在周期内用尽需升级或等待重置。团队版适合共享，但仍应按成员规划用量，避免单一终端占满额度。</p></details><div class=\"ad\" id=\"ads\">展示合作与广告位：品牌合作请通过官方工单沟通，本区域仅作页面占位，不跳转外部站点。</div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div id=\"sitemap\"><strong>网站地图</strong><p><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐价格</a><a href=\"#clients\">客户端选择</a><a href=\"#guide\">操作说明</a><a href=\"#download\">官网下载</a><a href=\"#faq\">常见问题</a></p></div><p><strong>友情链接</strong></p><p class=\"links\"><a href=\"#\">客户端导入教程</a><a href=\"#\">规则分流说明</a><a href=\"#\">隐私与日志原则</a><a href=\"#\">工单与续费须知</a></p><p>© 叱咤風雲官方网站 · 机场订阅与 VPN 网络加速服务。保留品牌原意，仅提供配置与使用说明。</p></footer></div>",
+          "hash": "acb3c6a6b14150ba3c57f0cf08f60aedb71506fdd7ee40851bb3cb0e72e913aa",
+          "seo": {
+            "title": "叱咤風雲｜官方机场订阅、VPN梯子加速与客户端下载",
+            "keywords": "叱咤風雲,叱咤風雲机场,叱咤風雲VPN,叱咤風雲官网,机场订阅,VPN梯子,网络加速,加速器,客户端下载,Clash,Shadowrocket,官网下载",
+            "description": "叱咤風雲是面向跨境访问的官方机场与VPN加速服务，提供基础版、旗舰版与团队版订阅，覆盖流媒体解锁、游戏IPLC加速及多端客户端导入指引，本页为官网下载与使用说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "iwmvp.cn",
+    "host": "p-0a5f8662df.iwmvp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "iwmvp.cn",
+      "url": "https://iwmvp.cn/",
+      "label": "溜冰猫(Skicat)",
+      "apex": "iwmvp.cn",
+      "kind": null,
+      "identity": "yjjocltc/page-77c772332ff4942b539cf31d"
+    },
+    {
+      "host": "acqgoat.cn",
+      "url": "https://acqgoat.cn/",
+      "label": "叱咤風雲",
+      "apex": "acqgoat.cn",
+      "kind": null,
+      "identity": "yrpbpx/page-33a68847fd3fa3330b65721e"
+    },
+    {
+      "host": "acqzaqx.cn",
+      "url": "https://acqzaqx.cn/",
+      "label": "叱咤風雲",
+      "apex": "acqzaqx.cn",
+      "kind": null,
+      "identity": "evckbvq/page-b5e4d324011d616113a383e6"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "23c7d2d6ff9c4ac03ba0534b61f99d5b9c6c15a2ced1bbda293029a9ed69500b",
+    "sitemap.xml": "1aea6e9856b10c79070ed4f42102d67ecd6f52519e63bdb964746b9b891b160b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e054caab9d21dd4c5d2569fd3928718f74f5cbe677eab585681202c46d4b443d",
+    "robots.txt": "8fa37070bd5f380b338d470b955e5f83d651a23e64d4934facd44001ded38735",
+    "806ca3113f1d70b76389aa7da59567fc.txt": "d000f9e160f2485710450cedb82d778d8508c5bde089459b9de29df52cc3c937"
+  },
+  "revision": "0590d2eb0d8465ecf4ab3f4fc241265e26add0c45b016eb894cbc8abf75924f1"
+}
